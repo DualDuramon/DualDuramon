@@ -1,4 +1,4 @@
-## std::cout<< "Hello World! 👋" << std::endl;
+## Debug.Log("이게 코드냐?");
 - 🤔할게 많당.
 <!--
 **DualDuramon/DualDuramon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
